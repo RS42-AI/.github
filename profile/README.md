@@ -1,6 +1,4 @@
-<p>
-  <img src="../assets/rs42-verdant-banner-v1.png" alt="RS42 — connected knowledge and working systems" width="1200">
-</p>
+![RS42 — connected knowledge and working systems](https://raw.githubusercontent.com/RS42-AI/.github/main/assets/rs42-verdant-banner-v1.png)
 
 RS42 builds practical AI tools and systems that help people and businesses put knowledge to work. Explore the tools we’re building, learn how they work, and join us as we develop them.
 

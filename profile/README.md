@@ -2,7 +2,7 @@
 
 RS42 builds practical AI tools and systems that help people and businesses put knowledge to work. Explore the tools we’re building, learn how they work, and join us as we develop them.
 
-**[Website ↗](https://rs42.ai/)** · **[Join the community ↗](https://discord.gg/9axRtknSY)**
+**[Website ↗](https://rs42.ai/)** · **[Join the community ↗](https://discord.gg/NYTKfFzpCN)**
 
 <table>
   <tbody>

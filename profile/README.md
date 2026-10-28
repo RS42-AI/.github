@@ -12,7 +12,7 @@ RS42 builds practical AI tools and systems that help people and businesses put k
     </tr>
     <tr>
       <td><strong><a href="https://cortex.rs42.ai/">Cortex</a></strong></td>
-      <td>A public working library for learning how to build with AI agents.<br><a href="https://cortex.rs42.ai/">Open the library →</a></td>
+      <td>A public working library for learning how to build with AI agents.<br><a href="https://cortex.rs42.ai/">Open the library →</a> · <a href="https://github.com/RS42-AI/cortex">View the source →</a></td>
     </tr>
   </tbody>
 </table>
